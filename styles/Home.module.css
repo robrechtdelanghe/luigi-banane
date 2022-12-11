@@ -2,6 +2,11 @@
   padding: 0 2rem;
 }
 
+.skewIt {
+  color: transparent;
+  transform: skew(0deg, 4.5deg) perspective(762px) rotateY(29deg);
+}
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
