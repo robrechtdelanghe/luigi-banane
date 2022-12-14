@@ -4,7 +4,6 @@
 
 
 .skewIt {
-    color: green;
     transform: skew(0.5deg, 4.5deg) perspective(762px) rotateY(29deg);
     background-size: 100% 100%;
 }
